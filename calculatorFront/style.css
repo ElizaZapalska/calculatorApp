@@ -1,0 +1,45 @@
+body {
+    background-color: lightslategray;
+    text-align: center;
+}
+h1 {
+    color: #b2e86d;
+    margin: 60px auto;
+    font-family: "Arial Black";
+    font-size: 50px;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #474e55;
+    width: 60%;
+
+}
+
+.inputs {
+    width: 60%;
+    margin: 0 auto;
+}
+
+#input1, #input2 {
+    font-size: 20px;
+    height: 50px;
+    margin: 10px;
+}
+#button {
+    font-size: 20px;
+    height: 50px;
+    margin: 20px;
+    color: #474e55;
+    background-color: #b2e86d;
+}
+
+#operationText {
+    height: 50px;
+    font-size: 20px;
+    margin: 10px;
+}
+
+#showResult {
+    width: 60%;
+    font-size: 30px;
+    text-align: left;
+}
